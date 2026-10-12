@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "output_location": "build",
+    "output_location": "dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
